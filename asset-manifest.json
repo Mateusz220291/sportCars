@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/sportCars/static/js/main.1787a2a1.chunk.js",
+    "main.js.map": "/sportCars/static/js/main.1787a2a1.chunk.js.map",
+    "runtime-main.js": "/sportCars/static/js/runtime-main.deaa9405.js",
+    "runtime-main.js.map": "/sportCars/static/js/runtime-main.deaa9405.js.map",
+    "static/js/2.f82ca1df.chunk.js": "/sportCars/static/js/2.f82ca1df.chunk.js",
+    "static/js/2.f82ca1df.chunk.js.map": "/sportCars/static/js/2.f82ca1df.chunk.js.map",
+    "static/js/3.39f5029f.chunk.js": "/sportCars/static/js/3.39f5029f.chunk.js",
+    "static/js/3.39f5029f.chunk.js.map": "/sportCars/static/js/3.39f5029f.chunk.js.map",
+    "index.html": "/sportCars/index.html",
+    "static/js/2.f82ca1df.chunk.js.LICENSE.txt": "/sportCars/static/js/2.f82ca1df.chunk.js.LICENSE.txt",
+    "static/media/audi.f3aa3a31.jpg": "/sportCars/static/media/audi.f3aa3a31.jpg",
+    "static/media/bmw.0b7250d2.jpg": "/sportCars/static/media/bmw.0b7250d2.jpg",
+    "static/media/ferrari.eef62006.jpg": "/sportCars/static/media/ferrari.eef62006.jpg",
+    "static/media/mercedes.ad392e9e.jpg": "/sportCars/static/media/mercedes.ad392e9e.jpg",
+    "static/media/porsche.cce5ea9c.jpg": "/sportCars/static/media/porsche.cce5ea9c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.deaa9405.js",
+    "static/js/2.f82ca1df.chunk.js",
+    "static/js/main.1787a2a1.chunk.js"
+  ]
+}
